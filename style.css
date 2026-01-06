@@ -9,7 +9,9 @@ html, body {
   width: 100vw;
   height: 100vh;
 
-  background-image: url("Main Menu Background.png");
+  /* background-image: url("Main Menu Background.png"); */
+  background: red;
+
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
